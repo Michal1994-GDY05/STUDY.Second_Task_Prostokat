@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Second_Task_Prostokat
+namespace Second_Task_Prostokat.Main
 {
     internal class Obliczenia
     {
